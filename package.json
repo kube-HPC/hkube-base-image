@@ -1,0 +1,19 @@
+{
+  "name": "hkube-base-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kube-HPC/hkube-base-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kube-HPC/hkube-base-image/issues"
+  },
+  "homepage": "https://github.com/kube-HPC/hkube-base-image#readme"
+}
