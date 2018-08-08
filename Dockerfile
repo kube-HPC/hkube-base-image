@@ -1,3 +1,3 @@
-FROM node:8
-MAINTAINER yehiyam@gmail.com
+FROM node:10
+LABEL author yehiyam@gmail.com
 RUN apt update && apt install nano
