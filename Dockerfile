@@ -1,3 +1,3 @@
-FROM node:10
+FROM node:10-slim
 LABEL author yehiyam@gmail.com
 RUN apt update && apt install nano
