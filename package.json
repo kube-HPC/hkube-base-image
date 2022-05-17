@@ -1,6 +1,6 @@
 {
   "name": "hkube-base-image",
-  "version": "1.2.1-buster",
+  "version": "2.0.1-buster",
   "description": "",
   "main": "index.js",
   "scripts": {
